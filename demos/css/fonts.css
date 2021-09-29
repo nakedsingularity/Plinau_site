@@ -1,0 +1,93 @@
+/* ----------------------------------------------------------------
+	Fonts
+
+	Replace your Fonts as necessary
+-----------------------------------------------------------------*/
+@font-face {
+
+	font-family: 'F37GingerPro-ExtraBold';
+	
+	src: url('F37GingerPro-ExtraBold.eot');
+	
+	src: url('F37GingerPro-ExtraBold.eot?#iefix') format('embedded-opentype'),
+	
+	url('F37GingerPro-ExtraBold.ttf') format('truetype'); }
+	
+	
+	@font-face {
+	
+	font-family: 'F37GingerPro-Black';
+	
+	src: url('F37GingerPro-Black.eot');
+	
+	src: url('F37GingerPro-Black.eot?#iefix') format('embedded-opentype'),
+	
+	url('F37GingerPro-Black.ttf') format('truetype'); }
+	
+	
+	@font-face {
+	
+	font-family: 'F37GingerPro-Regular';
+	
+	src: url('F37GingerPro-Regular.eot');
+	
+	src: url('F37GingerPro-Regular.eot?#iefix') format('embedded-opentype'),
+	
+	url('F37GingerPro-Regular.ttf') format('truetype'); }
+	
+	
+	@font-face {
+	
+	font-family: 'F37GingerPro-Bold';
+	
+	src: url('F37GingerPro-Bold.eot');
+	
+	src: url('F37GingerPro-Bold.eot?#iefix') format('embedded-opentype'),
+	
+	url('F37GingerPro-Bold.ttf') format('truetype'); }
+
+
+body,
+small,
+.sub-menu-container .menu-item > .menu-link,
+.wp-caption,
+.fbox-center.fbox-italic p,
+.skills li .progress-percent .counter,
+.nav-tree ul ul a,
+.font-body,
+
+#logo a,
+.menu-link,
+.mega-menu-style-2 .mega-menu-title > .menu-link,
+.top-search-form input,
+.entry-link,
+.entry.entry-date-section span,
+.button.button-desc,
+.fbox-content h3,
+.tab-nav-lg li a,
+.counter,
+label,
+.widget-filter-links li a,
+.nav-tree li a,
+.wedding-head,
+.font-primary { font-family: 'F37GingerPro-Regular', sans-serif !important; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 { font-family: 'F37GingerPro-ExtraBold', sans-serif !important; }
+
+.entry-link span,
+.entry blockquote p,
+.more-link,
+.comment-content .comment-author span,
+.comment-content .comment-author span a,
+.button.button-desc span,
+.testi-content p,
+.team-title span,
+.before-heading,
+.wedding-head .first-name span,
+.wedding-head .last-name span,
+.font-secondary { font-family: 'F37GingerPro-Regular', sans-serif !important; }
